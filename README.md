@@ -1,1 +1,1 @@
-CV: vlds-gch.github.io
+CV: https://vlds-gch.github.io/
