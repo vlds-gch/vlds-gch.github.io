@@ -24,7 +24,7 @@ body {
 }
 
 .links {
-  width: 320px;
+  width: 330px;
   margin-bottom: 40px;
 }
 
@@ -62,9 +62,9 @@ body {
   flex-direction: row;
   align-items: flex-start;
   padding: 0px 0px 10px;
-  gap: 30px;
+  gap: 0px;
   border-bottom: 1px solid #dadada;
-  width: 280px;
+  width: 295px;
 }
 
 .links__link:last-child {
