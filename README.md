@@ -1,2 +1,4 @@
 Ru: https://vlds-gch.github.io/
-Eng: https://vlds-gch.github.io/tree/main/CV_VS_ENG
+
+
+Eng: https://vlds-gch.github.io/CV_VS_ENG
