@@ -23,6 +23,13 @@ body {
   font-family: "Helvetica Neue";
 }
 
+.header__subtitle {
+  color: #8f8f8f;
+  font-size: 16px;
+  line-height: 1.4;
+  margin: 0;
+}
+
 .links {
   width: 320px;
   margin-bottom: 40px;
